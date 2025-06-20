@@ -24,6 +24,7 @@ Example : The same disease is discribed in In Shik Yoo's 2022 drama [*Weird lawy
 (https://youtu.be/DbBwlKmkZ1s?si=5RTrOvpP8_Q3w_TE)
 
 -질환서사-
+
 질환: 만성 불안 장애 (Generalized Anxiety Disorder, GAD)
 서사:
 지은은 어릴 때부터 예민하고 조심스러운 성격이었다. 대학 시절부터 시험과 인간관계에서 심한 불안을 느꼈고, 졸업 후 직장 생활을 시작하면서 만성 불안 장애 진단을 받았다. 일상적인 상황에서도 사소한 걱정들이 머릿속을 떠나지 않고, 잠들기 전에는 하루 동안 있었던 모든 일을 되새기며 걱정에 잠을 설친다. 지은은 자신의 불안을 이해하고 극복하기 위해 명상과 상담 치료를 병행하지만, 가끔씩 불안이 극에 달해 무기력해지기도 한다.
